@@ -3,3 +3,4 @@ hihello
 namaste
 vars
 lo
+loc
